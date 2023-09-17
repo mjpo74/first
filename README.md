@@ -1,1 +1,2 @@
-# first
+# First
+Learning the markdown syntax.
